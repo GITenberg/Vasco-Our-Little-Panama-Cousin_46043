@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4197'
     url: http://www.gutenberg.org/2009/agents/4197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46043#Vasco-Our-Little-Panama-Cousin
 gutenberg_issued: '2014-06-20'
 gutenberg_type: Text
 identifiers:
